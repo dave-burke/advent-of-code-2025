@@ -1,0 +1,4 @@
+venv
+input*.txt
+session.txt
+__pycache__
