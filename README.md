@@ -6,7 +6,7 @@
 
 ### Optional (but highly recommended)
 
-- Bash (for running `make.sh`)
+- Bash (for running `init-day.sh`)
 - virtualenv (for keeping python dependencies contained)
 - direnv (to automatically activate/deactivate virtualenv)
 

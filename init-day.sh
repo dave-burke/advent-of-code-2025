@@ -13,4 +13,3 @@ printf -v FILENAME "day%02d.py" $DAY
 
 cp -v template.py "${FILENAME}"
 chmod 755 "${FILENAME}"
-
