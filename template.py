@@ -5,9 +5,11 @@ import logging
 import aoc
 
 logging.basicConfig(level=logging.WARN)
+log = logging.getLogger(__name__)
 
 
-def part1(input):
+def part1(input: str):
+    log.debug("Running part 1...")
     print(input)
 
 
